@@ -25,7 +25,7 @@ export default function Home() {
           }}
         >
           <Image
-            src="/Echo-Barrier/images/Echo Assist Icon.svg"
+            src="/Echo-Barrier-Assit/images/Echo Assist Icon.svg"
             alt="Echo Assist"
             width={140}
             height={50}
